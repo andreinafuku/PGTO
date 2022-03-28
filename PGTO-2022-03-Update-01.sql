@@ -1,3 +1,4 @@
+-- Alterado por Ana
 UPDATE PGTO.TAB1
    set valor=10
  where id = 1;
